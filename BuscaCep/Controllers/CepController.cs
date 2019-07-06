@@ -1,7 +1,5 @@
 ﻿/*
- * Marcos Vinicius da Cruz Rubin
- * Jean Lucas Trizotti
- * Henrique Marcelino da Luz
+ * Henrique Marcelino da Luz    1720760
  */ 
 
 using BuscaCep.Models;
