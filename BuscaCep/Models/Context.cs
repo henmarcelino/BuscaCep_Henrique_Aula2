@@ -14,5 +14,6 @@ namespace BuscaCep.Models
 
         }
         public DbSet<Endereco> Enderecos { get; set; }
+        public DbSet<Endereco> Enderecocep { get; set; }
     }
 }
